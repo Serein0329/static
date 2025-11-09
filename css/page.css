@@ -50,6 +50,7 @@
 }
 
 /* 调整第二个菜单项的子菜单位置 */
+/* 调整第二个菜单项的子菜单位置 */
 .menus_items .menus_item:nth-child(2) .menus_item_child {
-    left: -90px;
+    left: -90px !important;
 }
